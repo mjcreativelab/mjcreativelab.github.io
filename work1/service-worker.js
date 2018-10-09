@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5799cb372357b46b778581a5d271dc12.js"
+  "precache-manifest.95d87d19dc52e2292be116e1fdefeca6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "work1-Tweeter"});
